@@ -1,6 +1,10 @@
 # Visual-Aide
 
-Screenshots and demos of [mistLAB](https://github.com/mreindl118-boop/VTT), the 3D tabletop for *Curse of Strahd* and *A Wild Sheep Chase*. They live here because the mistLAB repository never stores images.
+Pictures of Matt's apps: screenshots, contact sheets and demos. They live here because his app repositories never store images. Every picture is original UI with placeholder content: no personal data, account details, conversation contents or third-party art.
+
+## mistLAB
+
+[mistLAB](https://github.com/mreindl118-boop/VTT) is the 3D tabletop for *Curse of Strahd* and *A Wild Sheep Chase*.
 
 Each release gets one folder under `releases/`. Every folder holds:
 - a contact sheet of the highlights;
@@ -9,14 +13,34 @@ Each release gets one folder under `releases/`. Every folder holds:
 
 Claude Code adds a folder every time a version ships. The release notes are in mistLAB's `docs/CHANGELOG.md`.
 
-## What the images show
+### What the images show
 
 - **Maps and models:** all original low-poly geometry. No book art, map images or scans appear here.
 - **Rules text in the rule cards and Books reader:** from the System Reference Documents 5.1 and 5.2.1 by Wizards of the Coast LLC, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 - **Room descriptions and notes:** written in our own words. Keys, names and page numbers are references only.
 
-## Releases
+### Releases
 
 | Version | What | Folder |
 |---|---|---|
 | 0.1.0 | D&D rule tooltips and the SRD books | [releases/0.1.0-rules-tooltips](releases/0.1.0-rules-tooltips) |
+
+## Simulacrum
+
+[Simulacrum](https://github.com/mreindl118-boop/Simulacrum) is Matt's second self on two minds (Claude and ChatGPT), with one page as its interface. Its version number is the page's published version.
+
+Each version gets one folder under `simulacrum/`, with the same contents as a mistLAB release folder: a contact sheet, screenshots named for what they show, a README table, and a demo GIF when the version is about motion. Either mind captures it with placeholder content (`eyes/capture.cjs` in the Simulacrum repo) when a version ships; the release notes are in Simulacrum's `docs/claude/changelog.md`.
+
+Simulacrum's Eyes also keep every taste proposal's before/after pair under `simulacrum/proposals/<id>/`. Rejected proposals stay, marked rejected, so neither mind proposes them again. And Eyes reads the mistLAB folders above as evidence of Matt's taste: what the shipped UI does is shown to him as "this is me / not me" before it can become a rule.
+
+### Versions
+
+| Version | What | Folder |
+|---|---|---|
+| 0.17 | The Holo look, Let GPT in, left on each plan | [simulacrum/0.17-holo-look](simulacrum/0.17-holo-look) |
+
+### Taste proposals
+
+| Id | What | Status | Folder |
+|---|---|---|---|
+| skin-holo | The Holo look (cyberpunk, space-opera) worn over the base | kept, Matt's call | [simulacrum/proposals/skin-holo](simulacrum/proposals/skin-holo) |
