@@ -19,4 +19,5 @@ Claude Code adds a folder every time a version ships. The release notes are in m
 
 | Version | What | Folder |
 |---|---|---|
+| 0.2.0 | Chapter 2 sites: eleven new outdoor maps in the Svalich Woods | [releases/0.2.0-chapter-2-sites](releases/0.2.0-chapter-2-sites) |
 | 0.1.0 | D&D rule tooltips and the SRD books | [releases/0.1.0-rules-tooltips](releases/0.1.0-rules-tooltips) |
