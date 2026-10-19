@@ -23,6 +23,8 @@ Claude Code adds a folder every time a version ships. The release notes are in m
 
 | Version | What | Folder |
 |---|---|---|
+| 0.3.2 | Map smoothing, unfinished maps: Yester Hill climbs, the Amber Temple's mountain, the winery, Berez, the hut, the tower | [releases/0.3.2-unfinished-maps](releases/0.3.2-unfinished-maps) |
+| 0.3.0 / 0.3.1 | One world to zoom through: the World map, the valley, Vallaki, the Blue Water Inn, a room, and back | [releases/0.3.1-nested-world](releases/0.3.1-nested-world) |
 | 0.2.1 | Built and tested on the owner's laptop (GPU tests, Windows checkouts); nothing changes at the table, so no screenshots | — |
 | 0.2.0 | Chapter 2 sites: eleven new outdoor maps in the Svalich Woods | [releases/0.2.0-chapter-2-sites](releases/0.2.0-chapter-2-sites) |
 | 0.1.0 | D&D rule tooltips and the SRD books | [releases/0.1.0-rules-tooltips](releases/0.1.0-rules-tooltips) |
