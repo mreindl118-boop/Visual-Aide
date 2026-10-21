@@ -23,6 +23,7 @@ Claude Code adds a folder every time a version ships. The release notes are in m
 
 | Version | What | Folder |
 |---|---|---|
+| 0.3.4 | The valley's roads, lakes and trail: one connected road net through the places, lakes with their own shapes, every river meeting its lake, and the party's trail along the roads (0.3.3 beside 0.3.4) | [releases/0.3.4-roads-lakes-trail](releases/0.3.4-roads-lakes-trail) |
 | 0.3.3 | One home for each helper: the shape, fog and plane-geometry helpers the maps shared by copy now live in one place each; every scene's frame and draw count is unchanged, so no screenshots | — |
 | 0.3.2 | Map smoothing, unfinished maps: Yester Hill climbs, the Amber Temple's mountain, the winery, Berez, the hut, the tower | [releases/0.3.2-unfinished-maps](releases/0.3.2-unfinished-maps) |
 | 0.3.0 / 0.3.1 | One world to zoom through: the World map, the valley, Vallaki, the Blue Water Inn, a room, and back | [releases/0.3.1-nested-world](releases/0.3.1-nested-world) |
